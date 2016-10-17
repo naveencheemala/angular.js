@@ -41,7 +41,7 @@ To execute end-to-end (e2e) tests, use:
 
 To learn more about the grunt tasks, run `grunt --help`
 
-Contribute & Develop
+Contribute & Develop 
 --------------------
 
 We've set up a separate document for our [contribution guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md).
